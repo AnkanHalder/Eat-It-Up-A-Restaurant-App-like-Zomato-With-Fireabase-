@@ -1,5 +1,6 @@
 package com.example.jiraiya.eatitup;
 
+import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
@@ -20,7 +21,9 @@ public class StartActivity extends AppCompatActivity {
         signIn.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-
+                Intent signin =new Intent(StartActivity.this,SignIn.class);
+                startActivity(signin);
+                finish();
             }
         });
 
