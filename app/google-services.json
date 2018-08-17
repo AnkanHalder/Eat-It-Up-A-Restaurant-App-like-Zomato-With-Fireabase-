@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "619105023312",
+    "firebase_url": "https://androidres-cd9bd.firebaseio.com",
+    "project_id": "androidres-cd9bd",
+    "storage_bucket": "androidres-cd9bd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:619105023312:android:603c2953246671a5",
+        "android_client_info": {
+          "package_name": "com.example.jiraiya.eatitup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "619105023312-96qeq49vm7s5vspm5phlfij7i7j3ovb2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.jiraiya.eatitup",
+            "certificate_hash": "0ea665661dcb51347fc0a01ecf64a3cab3fe342c"
+          }
+        },
+        {
+          "client_id": "619105023312-t1oai2rpnnkac8s9ccgvll2jfhaphv6f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_LsnfPhmv5PfaSI4Lw4L7G8RW4b4QaBM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "619105023312-t1oai2rpnnkac8s9ccgvll2jfhaphv6f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
